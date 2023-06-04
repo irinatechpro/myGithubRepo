@@ -7,6 +7,6 @@ public class Calculator {
     }
     public int multyply (int a, int b){
         return a*b;
-
     }
+
 }
